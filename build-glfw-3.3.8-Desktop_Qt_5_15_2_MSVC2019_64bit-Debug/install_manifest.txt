@@ -1,0 +1,8 @@
+C:/Users/marta/Documents/AIM/3rd_semester/C++/Exercises/build-glfw-3.3.8-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/install/lib/glfw3.lib
+C:/Users/marta/Documents/AIM/3rd_semester/C++/Exercises/build-glfw-3.3.8-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/install/include/GLFW/glfw3.h
+C:/Users/marta/Documents/AIM/3rd_semester/C++/Exercises/build-glfw-3.3.8-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/install/include/GLFW/glfw3native.h
+C:/Users/marta/Documents/AIM/3rd_semester/C++/Exercises/build-glfw-3.3.8-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/install/lib/cmake/glfw3/glfw3Config.cmake
+C:/Users/marta/Documents/AIM/3rd_semester/C++/Exercises/build-glfw-3.3.8-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/install/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+C:/Users/marta/Documents/AIM/3rd_semester/C++/Exercises/build-glfw-3.3.8-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/install/lib/cmake/glfw3/glfw3Targets.cmake
+C:/Users/marta/Documents/AIM/3rd_semester/C++/Exercises/build-glfw-3.3.8-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/install/lib/cmake/glfw3/glfw3Targets-debug.cmake
+C:/Users/marta/Documents/AIM/3rd_semester/C++/Exercises/build-glfw-3.3.8-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/install/lib/pkgconfig/glfw3.pc
