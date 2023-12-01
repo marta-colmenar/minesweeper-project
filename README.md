@@ -2,7 +2,10 @@
 ## Overview
 This Minesweeper project is developed as the final project for a C++ course. It provides a simple Minesweeper game implemented in C++ using the GLFW library for GUI and ImGui for user interface elements.
 
-<img width="397" alt="minesweeper_game" src="https://github.com/marta-colmenar/minesweeper-project/assets/73017799/66d9a560-6a99-4c9e-99c2-c3ff20d7dca5">
+<div align="center">
+  <img width="400" alt="Minesweeper Game 1" src="https://github.com/marta-colmenar/minesweeper-project/assets/73017799/7b617ac3-8e5a-4f1e-9257-f042f693845b">
+  <img width="400" alt="Minesweeper Game 2" src="https://github.com/marta-colmenar/minesweeper-project/assets/73017799/66d9a560-6a99-4c9e-99c2-c3ff20d7dca5">
+</div>
 
 ## Features
 - Classic Minesweeper gameplay.
